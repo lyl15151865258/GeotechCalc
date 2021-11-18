@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">岩土计算器</string>
+    <string name="app_name">钎探-压实度计算器</string>
+    <string name="SkipAd">跳过%1ds</string>
 </resources>
